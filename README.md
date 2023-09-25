@@ -1,4 +1,4 @@
-# OTP-Custom-API
+# OTP Bot & Custom Voice API
 Advanced Telegram OTP Bot With Spoofing And Custom SIP Voice API
 
 **This Bot + API uses Asterisk and SIP trunking to make spoofed calls.**
