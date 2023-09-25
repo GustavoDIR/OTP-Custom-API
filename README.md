@@ -21,18 +21,21 @@ pip install random
 pip install requests
 pip install datetime
 
+
 5. *Open builder.exe and it starts compiling the source.*
 
-**If you did everything correctly so far, you should see /assets folder and main.py in the ouput.**
+**If you did everything correctly so far, you should see /assets folder and main.py & ami.py in the ouput.**
 
-7. *View the /output folder and insert main.py and /assets folder into your VPS/RDP*
+6. *View the /output folder and insert main.py and /assets folder into your VPS/RDP*
 
-8. *To run the bot type "python3 main.py"*
+7. *To run the bot type "python3 main.py"*
+
+8. *Now run the api with "python3 ami.py"*
 
 9. *Go to your Bot @ and type /start*
 
-**And boom, there you have your own OTP bot you can start selling, make sure your SIP has balance to be able to make calls.**
+And boom, there you have your own OTP bot you can start selling, make sure your SIP has balance to be able to make calls.
 
-**IMPORTANT!** Make sure you set your SIP DETAILS in /assets folder inside sip.json
+*IMPORTANT!* Make sure you set your SIP DETAILS in /assets folder inside sip.json
 
-**Sip providers**: Narayana.im, Nullvoip
+*SIP providers:* Narayana.im, Nullvoip
