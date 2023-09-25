@@ -19,7 +19,7 @@ pip install python-telegram-bot
 pip install asterisk-ami
 pip install random
 pip install requests
-pip install datetime```
+pip install datetime
 
 
 5. Open builder.exe and it starts compiling the source.
