@@ -13,13 +13,13 @@ Setup:
 
 4. *Execute:*
 
-```pip install flask
+``pip install flask
 pip install flask[async]
 pip install python-telegram-bot
 pip install asterisk-ami
 pip install random
 pip install requests
-pip install datetime
+pip install datetime``
 
 
 5. *Open builder.exe and it starts compiling the source.*
