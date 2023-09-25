@@ -26,9 +26,9 @@ pip install datetime
 
 5. Open builder.exe and it starts compiling the source.
 
-If you did everything correctly so far, you should see /assets folder and main.py & ami.py in the ouput.
+If you did everything correctly so far, you should see /assets folder and main.py & ami.py in the output folder.
 
-6. View the /output folder and insert main.py and /assets folder into your VPS/RDP
+6. View the /output folder and insert main.py & ami.py and /assets folder into your VPS/RDP
 
 7. To run the bot type "python3 main.py"
 
