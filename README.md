@@ -3,7 +3,7 @@ Advanced Telegram OTP Bot With Spoofing And Custom SIP Voice API
 
 **This Bot + API uses Asterisk and SIP trunking to make spoofed calls.**
 
-Setup:
+```Setup:
 
 1. *Extract files.zip*
 
@@ -13,7 +13,7 @@ Setup:
 
 4. *Execute:*
 
-```pip install flask
+pip install flask
 pip install flask[async]
 pip install python-telegram-bot
 pip install asterisk-ami
